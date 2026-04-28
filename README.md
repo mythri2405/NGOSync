@@ -16,7 +16,7 @@ Poor resource allocation
 
 This platform addresses these challenges by providing a unified digital solution.
 
-💡 Solution
+Solution
 
 NGOSync acts as a bridge between:
 
@@ -30,12 +30,14 @@ Better coordination
 Faster response
 Increased transparency
 Scalable impact
-📊 Use Cases
+
+Use Cases
 Disaster relief coordination
 Food distribution drives
 Community service programs
 Fundraising campaigns
-🔐 Future Enhancements
+
+Future Enhancements
 Authentication & role-based access
 Real-time notifications
 Advanced analytics dashboard
@@ -64,6 +66,7 @@ AI-based volunteer–NGO matching
 Demand forecasting using machine learning
 Natural language request processing
 Trust scoring and anomaly detection
+
 Tech Stack
 Frontend
 HTML
@@ -73,7 +76,8 @@ Backend
 Node.js / Express
 Deployment
 Firebase Hosting (Google Cloud)
-☁️ Deployment
+
+Deployment
 
 The project is deployed using:
 
@@ -90,15 +94,3 @@ Build Smart NGO Platform/
 │── dist/        # production build
 │── index.html
 │── package.json
-Installation & Setup
-1. Clone the repository
-git clone https://github.com/mythri2405/NGOSync.git
-cd "Build Smart NGO Platform"
-2. Install dependencies
-npm install
-3. Run locally
-npm run dev
-4. Build project
-npm run build
-5. Deploy (Firebase)
-firebase deploy
